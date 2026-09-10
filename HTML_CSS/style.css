@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(35, 35, 35);
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+button {
+  font-size: 30px;
+}
+
+section {
+  font-size: 30px;
+}
+
+div {
+  text-align: center;
+  border: 10px;
+  margin-top: 20%;
+  margin-left: 25%;
+  margin-bottom: 25%;
+  margin-right: 25%;
+  align-items: center;
+  justify-content: center;
+  color: salmon;
+}

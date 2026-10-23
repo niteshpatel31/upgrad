@@ -1,0 +1,64 @@
+SUCCESS: Data retrieved successfully!
+PROMISE is SETTLED
+{
+  id: 'b3e',
+  url: 'https://s3.us-west-2.amazonaws.com/cdn2.thecatapi.com/images/b3e.jpg',
+  width: 500,
+  height: 354
+}
+{
+  id: 'djt',
+  url: 'https://s3.us-west-2.amazonaws.com/cdn2.thecatapi.com/images/djt.jpg',
+  width: 565,
+  height: 376
+}
+{
+  id: 'act',
+  url: 'https://s3.us-west-2.amazonaws.com/cdn2.thecatapi.com/images/act.jpg',
+  width: 450,
+  height: 675
+}
+{
+  id: '841',
+  url: 'https://s3.us-west-2.amazonaws.com/cdn2.thecatapi.com/images/841.gif',
+  width: 500,
+  height: 240
+}
+{
+  id: 'CKVhCI0bz',
+  url: 'https://s3.us-west-2.amazonaws.com/cdn2.thecatapi.com/images/CKVhCI0bz.jpg',
+  width: 1280,
+  height: 720
+}
+{
+  id: 'a0n',
+  url: 'https://s3.us-west-2.amazonaws.com/cdn2.thecatapi.com/images/a0n.jpg',
+  width: 530,
+  height: 709
+}
+{
+  id: 'BB18hZT2z',
+  url: 'https://s3.us-west-2.amazonaws.com/cdn2.thecatapi.com/images/BB18hZT2z.jpg',
+  width: 2909,
+  height: 2126
+}
+{
+  id: 'MTk5OTY4Nw',
+  url: 'https://s3.us-west-2.amazonaws.com/cdn2.thecatapi.com/images/MTk5OTY4Nw.jpg',
+  width: 912,
+  height: 1280
+}
+{
+  id: 'bhm',
+  url: 'https://s3.us-west-2.amazonaws.com/cdn2.thecatapi.com/images/bhm.jpg',
+  width: 500,
+  height: 333
+}
+{
+  id: 'BDMOZo668',
+  url: 'https://s3.us-west-2.amazonaws.com/cdn2.thecatapi.com/images/BDMOZo668.jpg',
+  width: 1250,
+  height: 702
+}
+typeof func :  object
+Hello World!
